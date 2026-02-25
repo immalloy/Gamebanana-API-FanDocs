@@ -212,18 +212,3 @@ print(f"Found {data['_aMetadata']['_nRecordCount']} mods")
 for mod in data["_aRecords"]:
     print(f"  - {mod['_sName']} ({mod.get('_nDownloadCount', 0)} downloads)")
 ```
-
----
-
-## Full Library: pybanana
-
-For production use, consider [pybanana](https://pypi.org/project/pybanana/):
-
-```python
-pip install pybanana
-
-import pybanana
-
-client = pybanana.GameBanana()
-mods = client.mod.list(game_id=4254)
-```

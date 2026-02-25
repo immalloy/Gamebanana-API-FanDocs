@@ -136,10 +136,12 @@ GameBanana APIs use consistent prefixes:
 
 ---
 
-## Libraries
+## Credits
 
-- **[pybanana](https://github.com/ripnet/pypiypbanana)** (Python) - Uses Web API (apiv11)
-- **[gamebanana](https://github.com/nicbarker/clap)** (Deno) - Uses Official API
+- **GameBanana** - For the amazing modding platform
+- **Postman Collection** (`gb-api-v11`) - Community-contributed API documentation
+- **pybanana** - Python library that helped discover the Web API
+- **gamebanana (Deno)** - TypeScript library for the Official API
 
 ---
 

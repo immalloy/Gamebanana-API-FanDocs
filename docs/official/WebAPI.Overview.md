@@ -1,6 +1,6 @@
 # GameBanana Web API (apiv11)
 
-This is an alternative API that provides more detailed data than the official `api.gamebanana.com`. Used by the pybanana Python library.
+This is an undocumented internal API that provides more detailed data than the official `api.gamebanana.com`.
 
 **Base URL:** `https://gamebanana.com/apiv11`
 
@@ -144,11 +144,3 @@ All responses are JSON with keys prefixed with underscore:
 - `_nXxx` - Numeric data
 - `_bXxx` - Boolean data
 - `_tsXxx` - Timestamp
-
----
-
-## Libraries Using This API
-
-- **pybanana** (Python) - https://github.com/gamebanana/pybanana
-
-This API provides richer data than the official API but is not officially documented.

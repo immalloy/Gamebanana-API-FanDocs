@@ -350,15 +350,6 @@ Web API responses use these prefixes:
 
 ---
 
-## Libraries
-
-| Language | Library | Uses |
-|----------|---------|------|
-| Python | [pybanana](https://github.com/gamebanana/pybanana) | Web API (apiv11) |
-| Deno/TS | [gamebanana](https://deno.land/x/gamebanana) | Official API |
-
----
-
 ## Important Notes
 
 1. **No authentication required** for read operations on Web API
