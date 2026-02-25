@@ -1,6 +1,6 @@
 # GameBanana API Documentation
 
-> **Offline documentation mirror** for GameBanana APIs - optimized for LLM consumption
+> **Offline documentation mirror** for GameBanana APIs - easy to read and reference
 
 ## Two APIs Available
 
