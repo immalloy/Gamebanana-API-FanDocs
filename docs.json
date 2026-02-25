@@ -1,0 +1,1962 @@
+[
+  {
+    "slug": "complete-api-documentation",
+    "title": "Complete API Documentation",
+    "url": "https://gamebanana.com",
+    "file_path": "docs/Complete.API.Documentation.md",
+    "description": "Complete documentation for both Official and Web APIs",
+    "category": "Overview"
+  },
+  {
+    "slug": "webapi-complete",
+    "title": "Web API (apiv11) - Complete Reference",
+    "url": "https://gamebanana.com/apiv11",
+    "file_path": "docs/WebAPI.Complete.md",
+    "description": "Complete reference with all 104 endpoints",
+    "category": "Overview"
+  },
+  {
+    "slug": "core-app-authenticate",
+    "title": "Core / App / Authenticate",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/App/Authenticate",
+    "file_path": "docs/official/Core.App.Authenticate.md",
+    "description": "Official API endpoint: Core.App.Authenticate",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-item-data-allowedfields",
+    "title": "Core / Item / Data / AllowedFields",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Item/Data/AllowedFields",
+    "file_path": "docs/official/Core.Item.Data.AllowedFields.md",
+    "description": "Official API endpoint: Core.Item.Data.AllowedFields",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-item-data-alloweditemtypes",
+    "title": "Core / Item / Data / AllowedItemTypes",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Item/Data/AllowedItemTypes",
+    "file_path": "docs/official/Core.Item.Data.AllowedItemTypes.md",
+    "description": "Official API endpoint: Core.Item.Data.AllowedItemTypes",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-item-data",
+    "title": "Core / Item / Data",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Item/Data",
+    "file_path": "docs/official/Core.Item.Data.md",
+    "description": "Official API endpoint: Core.Item.Data",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-item-identifybyid",
+    "title": "Core / Item / IdentifyById",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Item/IdentifyById",
+    "file_path": "docs/official/Core.Item.IdentifyById.md",
+    "description": "Official API endpoint: Core.Item.IdentifyById",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-like-allowedfields",
+    "title": "Core / List / Like / AllowedFields",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Like/AllowedFields",
+    "file_path": "docs/official/Core.List.Like.AllowedFields.md",
+    "description": "Official API endpoint: Core.List.Like.AllowedFields",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-like-alloweditemtypes",
+    "title": "Core / List / Like / AllowedItemTypes",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Like/AllowedItemTypes",
+    "file_path": "docs/official/Core.List.Like.AllowedItemTypes.md",
+    "description": "Official API endpoint: Core.List.Like.AllowedItemTypes",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-like",
+    "title": "Core / List / Like",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Like",
+    "file_path": "docs/official/Core.List.Like.md",
+    "description": "Official API endpoint: Core.List.Like",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-new-alloweditemtypes",
+    "title": "Core / List / New / AllowedItemTypes",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/New/AllowedItemTypes",
+    "file_path": "docs/official/Core.List.New.AllowedItemTypes.md",
+    "description": "Official API endpoint: Core.List.New.AllowedItemTypes",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-new",
+    "title": "Core / List / New",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/New",
+    "file_path": "docs/official/Core.List.New.md",
+    "description": "Official API endpoint: Core.List.New",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-section-allowedfilteroperators",
+    "title": "Core / List / Section / AllowedFilterOperators",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Section/AllowedFilterOperators",
+    "file_path": "docs/official/Core.List.Section.AllowedFilterOperators.md",
+    "description": "Official API endpoint: Core.List.Section.AllowedFilterOperators",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-section-allowedfilters",
+    "title": "Core / List / Section / AllowedFilters",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Section/AllowedFilters",
+    "file_path": "docs/official/Core.List.Section.AllowedFilters.md",
+    "description": "Official API endpoint: Core.List.Section.AllowedFilters",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-section-alloweditemtypes",
+    "title": "Core / List / Section / AllowedItemTypes",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Section/AllowedItemTypes",
+    "file_path": "docs/official/Core.List.Section.AllowedItemTypes.md",
+    "description": "Official API endpoint: Core.List.Section.AllowedItemTypes",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-section-allowedsorts",
+    "title": "Core / List / Section / AllowedSorts",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Section/AllowedSorts",
+    "file_path": "docs/official/Core.List.Section.AllowedSorts.md",
+    "description": "Official API endpoint: Core.List.Section.AllowedSorts",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-list-section",
+    "title": "Core / List / Section",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/List/Section",
+    "file_path": "docs/official/Core.List.Section.md",
+    "description": "Official API endpoint: Core.List.Section",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-member-identify",
+    "title": "Core / Member / Identify",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Member/Identify",
+    "file_path": "docs/official/Core.Member.Identify.md",
+    "description": "Official API endpoint: Core.Member.Identify",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-member-identifybyid",
+    "title": "Core / Member / IdentifyById",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Member/IdentifyById",
+    "file_path": "docs/official/Core.Member.IdentifyById.md",
+    "description": "Official API endpoint: Core.Member.IdentifyById",
+    "category": "Official API"
+  },
+  {
+    "slug": "core-member-match",
+    "title": "Core / Member / Match",
+    "url": "https://api.gamebanana.com/docs/endpoints/Core/Member/Match",
+    "file_path": "docs/official/Core.Member.Match.md",
+    "description": "Official API endpoint: Core.Member.Match",
+    "category": "Official API"
+  },
+  {
+    "slug": "rss-featured-alloweditemtypes",
+    "title": "Rss / Featured / AllowedItemTypes",
+    "url": "https://api.gamebanana.com/docs/endpoints/Rss/Featured/AllowedItemTypes",
+    "file_path": "docs/official/Rss.Featured.AllowedItemTypes.md",
+    "description": "Official API endpoint: Rss.Featured.AllowedItemTypes",
+    "category": "Official API"
+  },
+  {
+    "slug": "rss-featured",
+    "title": "Rss / Featured",
+    "url": "https://api.gamebanana.com/docs/endpoints/Rss/Featured",
+    "file_path": "docs/official/Rss.Featured.md",
+    "description": "Official API endpoint: Rss.Featured",
+    "category": "Official API"
+  },
+  {
+    "slug": "rss-new-alloweditemtypes",
+    "title": "Rss / New / AllowedItemTypes",
+    "url": "https://api.gamebanana.com/docs/endpoints/Rss/New/AllowedItemTypes",
+    "file_path": "docs/official/Rss.New.AllowedItemTypes.md",
+    "description": "Official API endpoint: Rss.New.AllowedItemTypes",
+    "category": "Official API"
+  },
+  {
+    "slug": "rss-new",
+    "title": "Rss / New",
+    "url": "https://api.gamebanana.com/docs/endpoints/Rss/New",
+    "file_path": "docs/official/Rss.New.md",
+    "description": "Official API endpoint: Rss.New",
+    "category": "Official API"
+  },
+  {
+    "slug": "Util.Search.Results",
+    "title": "GET /Util/Search/Results",
+    "url": "https://gamebanana.com/apiv11/Util/Search/Results",
+    "file_path": "docs/web/search/Util.Search.Results.md",
+    "description": "Advanced search - This endpoint returns a list of search results.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Util/Search/Results",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "model_name.ListFilterConfig",
+    "title": "GET /:model_name/ListFilterConfig",
+    "url": "https://gamebanana.com/apiv11/:model_name/ListFilterConfig",
+    "file_path": "docs/web/search/model_name.ListFilterConfig.md",
+    "description": "Search modificators - This endpoint returns filters configuration for API Index.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /:model_name/ListFilterConfig",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Search.Suggestions",
+    "title": "GET /Util/Search/Suggestions",
+    "url": "https://gamebanana.com/apiv11/Util/Search/Suggestions",
+    "file_path": "docs/web/search/Util.Search.Suggestions.md",
+    "description": "Search suggestions - This endpoint returns a list of suggested search queries for the provided search string.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Util/Search/Suggestions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Game.NameMatch",
+    "title": "GET /Util/Game/NameMatch",
+    "url": "https://gamebanana.com/apiv11/Util/Game/NameMatch",
+    "file_path": "docs/web/search/Util.Game.NameMatch.md",
+    "description": "Games by name - This endpoint returns a list of games containing the search query in their names.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Util/Game/NameMatch",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Generic.Tags",
+    "title": "GET /Util/Generic/Tags",
+    "url": "https://gamebanana.com/apiv11/Util/Generic/Tags",
+    "file_path": "docs/web/search/Util.Generic.Tags.md",
+    "description": "Tags by text - This endpoint returns a list of tags containing the search query in their names.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Util/Generic/Tags",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Homepage.Submissions",
+    "title": "GET /Util/Homepage/Submissions",
+    "url": "https://gamebanana.com/apiv11/Util/Homepage/Submissions",
+    "file_path": "docs/web/search/Util.Homepage.Submissions.md",
+    "description": "Latest (all games) - This endpoint returns a list of the latest submissions displayed on the homepage (all games are incl",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Util/Homepage/Submissions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.Subfeed",
+    "title": "GET /Game/:id/Subfeed",
+    "url": "https://gamebanana.com/apiv11/Game/:id/Subfeed",
+    "file_path": "docs/web/search/Game.id.Subfeed.md",
+    "description": "Latest (game) - This endpoint returns a list of the latest submissions for the specified Game ID.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Game/:id/Subfeed",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "model_name.Index",
+    "title": "GET /:model_name/Index",
+    "url": "https://gamebanana.com/apiv11/:model_name/Index",
+    "file_path": "docs/web/search/model_name.Index.md",
+    "description": "Latest (section) - This endpoint returns a list of records matching the given criteria.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /:model_name/Index",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.SubFeed",
+    "title": "GET /Member/:id/SubFeed",
+    "url": "https://gamebanana.com/apiv11/Member/:id/SubFeed",
+    "file_path": "docs/web/search/Member.id.SubFeed.md",
+    "description": "Latest (member) - This endpoint returns a list of latest submissions of Member ID.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Member/:id/SubFeed",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.List.Featured",
+    "title": "GET /Util/List/Featured",
+    "url": "https://gamebanana.com/apiv11/Util/List/Featured",
+    "file_path": "docs/web/search/Util.List.Featured.md",
+    "description": "Featured - This endpoint returns a list of featured submissions.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Util/List/Featured",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.TopSubs",
+    "title": "GET /Game/:id/TopSubs",
+    "url": "https://gamebanana.com/apiv11/Game/:id/TopSubs",
+    "file_path": "docs/web/search/Game.id.TopSubs.md",
+    "description": "Top (game) - This endpoint returns top submissions displayed on the game's homepage.\n\nAvailable periods:\n\n- day\n-",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Search",
+    "headings": [
+      "GET /Game/:id/TopSubs",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Homepage.TopGames",
+    "title": "GET /Util/Homepage/TopGames",
+    "url": "https://gamebanana.com/apiv11/Util/Homepage/TopGames",
+    "file_path": "docs/web/games-search-games/Util.Homepage.TopGames.md",
+    "description": "Trending, Classics, New - This endpoint returns lists of Trending, Classics, New games.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Games",
+    "headings": [
+      "GET /Util/Homepage/TopGames",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Game.NameMatch",
+    "title": "GET /Util/Game/NameMatch",
+    "url": "https://gamebanana.com/apiv11/Util/Game/NameMatch",
+    "file_path": "docs/web/games-search-games/Util.Game.NameMatch.md",
+    "description": "By name - This endpoint returns a list of Games containing the value of query parameter _sName in their names.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Games",
+    "headings": [
+      "GET /Util/Game/NameMatch",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.ListFilterConfig",
+    "title": "GET /Game/ListFilterConfig",
+    "url": "https://gamebanana.com/apiv11/Game/ListFilterConfig",
+    "file_path": "docs/web/games-search-games/Game.ListFilterConfig.md",
+    "description": "Sort options and filters - This endpoint returns a set of available sort options and filters.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Games",
+    "headings": [
+      "GET /Game/ListFilterConfig",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.Index",
+    "title": "GET /Game/Index",
+    "url": "https://gamebanana.com/apiv11/Game/Index",
+    "file_path": "docs/web/games-search-games/Game.Index.md",
+    "description": "By sort options and filters - This endpoint returns a list of Games.\n\nTo sort results provide a value for _sSort\n\nTo filter result",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Games",
+    "headings": [
+      "GET /Game/Index",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.TopSubs",
+    "title": "GET /Game/:id/TopSubs",
+    "url": "https://gamebanana.com/apiv11/Game/:id/TopSubs",
+    "file_path": "docs/web/games-search-submissions-for-the-specified-game/Game.id.TopSubs.md",
+    "description": "Top submissions - This endpoint returns top submissions displayed on the homepage of the specified Game ID.\n\nThere mig",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Submissions for the specified Game",
+    "headings": [
+      "GET /Game/:id/TopSubs",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.List.Featured",
+    "title": "GET /Util/List/Featured",
+    "url": "https://gamebanana.com/apiv11/Util/List/Featured",
+    "file_path": "docs/web/games-search-submissions-for-the-specified-game/Util.List.Featured.md",
+    "description": "Featured - This endpoint returns a list of submissions that were previously featured on the homepage of the spe",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Submissions for the specified Game",
+    "headings": [
+      "GET /Util/List/Featured",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.CommunitySpotlight",
+    "title": "GET /Game/:id/CommunitySpotlight",
+    "url": "https://gamebanana.com/apiv11/Game/:id/CommunitySpotlight",
+    "file_path": "docs/web/games-search-submissions-for-the-specified-game/Game.id.CommunitySpotlight.md",
+    "description": "Community Spotlight - This endpoint returns a set of submissions, studios and clubs that have gained popularity recently f",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Submissions for the specified Game",
+    "headings": [
+      "GET /Game/:id/CommunitySpotlight",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.Subfeed",
+    "title": "GET /Game/:id/Subfeed",
+    "url": "https://gamebanana.com/apiv11/Game/:id/Subfeed",
+    "file_path": "docs/web/games-search-submissions-for-the-specified-game/Game.id.Subfeed.md",
+    "description": "Advanced search - This endpoint returns a list of submissions for the specified Game ID.",
+    "method": "GET",
+    "category": "Search & Discovery",
+    "folder": "/Games/Search Submissions for the specified Game",
+    "headings": [
+      "GET /Game/:id/Subfeed",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.ProfilePage",
+    "title": "GET /Game/:id/ProfilePage",
+    "url": "https://gamebanana.com/apiv11/Game/:id/ProfilePage",
+    "file_path": "docs/web/games-info-for-the-specified-game/Game.id.ProfilePage.md",
+    "description": "Multiple Properties (1) - This endpoint returns multiple properties for the specified Game ID.",
+    "method": "GET",
+    "category": "Games",
+    "folder": "/Games/Info for the specified Game",
+    "headings": [
+      "GET /Game/:id/ProfilePage",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id",
+    "title": "GET /Game/:id",
+    "url": "https://gamebanana.com/apiv11/Game/:id",
+    "file_path": "docs/web/games-info-for-the-specified-game/Game.id.md",
+    "description": "Multiple Properties (2) - This endpoint returns multiple properties for the specified Game ID.",
+    "method": "GET",
+    "category": "Games",
+    "folder": "/Games/Info for the specified Game",
+    "headings": [
+      "GET /Game/:id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.GetStartedPage",
+    "title": "GET /Game/:id/GetStartedPage",
+    "url": "https://gamebanana.com/apiv11/Game/:id/GetStartedPage",
+    "file_path": "docs/web/games-info-for-the-specified-game/Game.id.GetStartedPage.md",
+    "description": "Detailed information - This endpoint returns detailed information for the specified Game ID.",
+    "method": "GET",
+    "category": "Games",
+    "folder": "/Games/Info for the specified Game",
+    "headings": [
+      "GET /Game/:id/GetStartedPage",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Game.id.Rules",
+    "title": "GET /Game/:id/Rules",
+    "url": "https://gamebanana.com/apiv11/Game/:id/Rules",
+    "file_path": "docs/web/games-info-for-the-specified-game/Game.id.Rules.md",
+    "description": "Additional rules - This endpoint returns a list of additional rules for the specified Game ID.",
+    "method": "GET",
+    "category": "Games",
+    "folder": "/Games/Info for the specified Game",
+    "headings": [
+      "GET /Game/:id/Rules",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Generic.Discussions",
+    "title": "GET /Util/Generic/Discussions",
+    "url": "https://gamebanana.com/apiv11/Util/Generic/Discussions",
+    "file_path": "docs/web/games-misc/Util.Generic.Discussions.md",
+    "description": "Discussions - This endpoint returns a list of the latest discussions for the specified Game ID.",
+    "method": "GET",
+    "category": "Games",
+    "folder": "/Games/Misc",
+    "headings": [
+      "GET /Util/Generic/Discussions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "sectionSlug.Categories",
+    "title": "GET /:sectionSlug/Categories",
+    "url": "https://gamebanana.com/apiv11/:sectionSlug/Categories",
+    "file_path": "docs/web/work-in-progress-categories/sectionSlug.Categories.md",
+    "description": "Multiple RootCategories - Returns a list of the root categories by Section Slug.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Categories",
+    "headings": [
+      "GET /:sectionSlug/Categories",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "ModCategory.rootCategoryId.SubCategories",
+    "title": "GET /ModCategory/:rootCategoryId/SubCategories",
+    "url": "https://gamebanana.com/apiv11/ModCategory/:rootCategoryId/SubCategories",
+    "file_path": "docs/web/work-in-progress-categories/ModCategory.rootCategoryId.SubCategories.md",
+    "description": "Multiple SubCategories - Returns a list of the sub categories by Root Category ID.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Categories",
+    "headings": [
+      "GET /ModCategory/:rootCategoryId/SubCategories",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Generic.Discussions",
+    "title": "GET /Util/Generic/Discussions",
+    "url": "https://gamebanana.com/apiv11/Util/Generic/Discussions",
+    "file_path": "docs/web/work-in-progress-discussions/Util.Generic.Discussions.md",
+    "description": "Multiple Discussions - Returns a list of the latests discussions.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Discussions",
+    "headings": [
+      "GET /Util/Generic/Discussions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Homepage.Features",
+    "title": "GET /Util/Homepage/Features",
+    "url": "https://gamebanana.com/apiv11/Util/Homepage/Features",
+    "file_path": "docs/web/work-in-progress-homepage/Util.Homepage.Features.md",
+    "description": "Features - Returns a list of featured submissions.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Homepage",
+    "headings": [
+      "GET /Util/Homepage/Features",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Homepage.CommunitySpotlight",
+    "title": "GET /Util/Homepage/CommunitySpotlight",
+    "url": "https://gamebanana.com/apiv11/Util/Homepage/CommunitySpotlight",
+    "file_path": "docs/web/work-in-progress-homepage/Util.Homepage.CommunitySpotlight.md",
+    "description": "CommunitySpotlight - Returns a set of submissions, studios and clubs that have gained popularity recently.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Homepage",
+    "headings": [
+      "GET /Util/Homepage/CommunitySpotlight",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.AwardedBounties",
+    "title": "GET /Member/:id/AwardedBounties",
+    "url": "https://gamebanana.com/apiv11/Member/:id/AwardedBounties",
+    "file_path": "docs/web/work-in-progress-member/Member.id.AwardedBounties.md",
+    "description": "Awarded Bounties - Returns a list of submissions the specified Member ID has been awarded bounties for.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/AwardedBounties",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.ContributedBounties",
+    "title": "GET /Member/:id/ContributedBounties",
+    "url": "https://gamebanana.com/apiv11/Member/:id/ContributedBounties",
+    "file_path": "docs/web/work-in-progress-member/Member.id.ContributedBounties.md",
+    "description": "Contributed Bounties - Returns a list of submissions the specified Member ID has contributed bounties for.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/ContributedBounties",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.LikedSubmissions",
+    "title": "GET /Member/:id/LikedSubmissions",
+    "url": "https://gamebanana.com/apiv11/Member/:id/LikedSubmissions",
+    "file_path": "docs/web/work-in-progress-member/Member.id.LikedSubmissions.md",
+    "description": "Liked Submissions - Returns a list of submissions liked by a specified Member ID.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/LikedSubmissions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.Medals",
+    "title": "GET /Member/:id/Medals",
+    "url": "https://gamebanana.com/apiv11/Member/:id/Medals",
+    "file_path": "docs/web/work-in-progress-member/Member.id.Medals.md",
+    "description": "Medals - Returns a list of medals for a specified Member ID.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/Medals",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.ParticipatedContests",
+    "title": "GET /Member/:id/ParticipatedContests",
+    "url": "https://gamebanana.com/apiv11/Member/:id/ParticipatedContests",
+    "file_path": "docs/web/work-in-progress-member/Member.id.ParticipatedContests.md",
+    "description": "Participated Contests - Returns a list of contests the specified Member ID has participated in.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/ParticipatedContests",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.RatedIdeas",
+    "title": "GET /Member/:id/RatedIdeas",
+    "url": "https://gamebanana.com/apiv11/Member/:id/RatedIdeas",
+    "file_path": "docs/web/work-in-progress-member/Member.id.RatedIdeas.md",
+    "description": "Rated Ideas - Returns a list of ideas the specified Member ID has rated.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/RatedIdeas",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.SolvedQuestions",
+    "title": "GET /Member/:id/SolvedQuestions",
+    "url": "https://gamebanana.com/apiv11/Member/:id/SolvedQuestions",
+    "file_path": "docs/web/work-in-progress-member/Member.id.SolvedQuestions.md",
+    "description": "Solved Questions - Returns a list of questions solved by the specified Member ID.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/SolvedQuestions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.ThankedSubmissions",
+    "title": "GET /Member/:id/ThankedSubmissions",
+    "url": "https://gamebanana.com/apiv11/Member/:id/ThankedSubmissions",
+    "file_path": "docs/web/work-in-progress-member/Member.id.ThankedSubmissions.md",
+    "description": "Thanked Submissions - Returns a list of submissions the specified Member ID has thanked.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/ThankedSubmissions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.VotedPolls",
+    "title": "GET /Member/:id/VotedPolls",
+    "url": "https://gamebanana.com/apiv11/Member/:id/VotedPolls",
+    "file_path": "docs/web/work-in-progress-member/Member.id.VotedPolls.md",
+    "description": "Voted Polls - Returns a list of polls the specified Member ID has voted in.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/VotedPolls",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.Submissions.Contributions",
+    "title": "GET /Member/:id/Submissions/Contributions",
+    "url": "https://gamebanana.com/apiv11/Member/:id/Submissions/Contributions",
+    "file_path": "docs/web/work-in-progress-member/Member.id.Submissions.Contributions.md",
+    "description": "Contributions - Returns a list of submissions where the specified Member ID has been listed in the credits.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/Submissions/Contributions",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.id.Submissions.Posts",
+    "title": "GET /Member/:id/Submissions/Posts",
+    "url": "https://gamebanana.com/apiv11/Member/:id/Submissions/Posts",
+    "file_path": "docs/web/work-in-progress-member/Member.id.Submissions.Posts.md",
+    "description": "Latest Posts - Returns a list of posts made by a specified Member ID.",
+    "method": "GET",
+    "category": "Work in Progress",
+    "folder": "/Work in Progress/Member",
+    "headings": [
+      "GET /Member/:id/Submissions/Posts",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.Authenticate",
+    "title": "POST /Member/Authenticate",
+    "url": "https://gamebanana.com/apiv11/Member/Authenticate",
+    "file_path": "docs/web/authentication-via-username/Member.Authenticate.md",
+    "description": "Authenticate - ",
+    "method": "POST",
+    "category": "Authentication",
+    "folder": "/Authentication/Via Username",
+    "headings": [
+      "POST /Member/Authenticate",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.EmailAuthenticate",
+    "title": "POST /Member/EmailAuthenticate",
+    "url": "https://gamebanana.com/apiv11/Member/EmailAuthenticate",
+    "file_path": "docs/web/authentication-via-email/Member.EmailAuthenticate.md",
+    "description": "1. Request confirmation code - ",
+    "method": "POST",
+    "category": "Authentication",
+    "folder": "/Authentication/Via Email",
+    "headings": [
+      "POST /Member/EmailAuthenticate",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Member.EmailAuthenticate",
+    "title": "POST /Member/EmailAuthenticate",
+    "url": "https://gamebanana.com/apiv11/Member/EmailAuthenticate",
+    "file_path": "docs/web/authentication-via-email/Member.EmailAuthenticate.md",
+    "description": "2. Submit confirmation code - ",
+    "method": "POST",
+    "category": "Authentication",
+    "folder": "/Authentication/Via Email",
+    "headings": [
+      "POST /Member/EmailAuthenticate",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Util.Config.TrashReasons",
+    "title": "GET /Util/Config/TrashReasons",
+    "url": "https://gamebanana.com/apiv11/Util/Config/TrashReasons",
+    "file_path": "docs/web/dictionaries/Util.Config.TrashReasons.md",
+    "description": "Trash reasons - ",
+    "method": "GET",
+    "category": "Dictionaries",
+    "folder": "/Dictionaries",
+    "headings": [
+      "GET /Util/Config/TrashReasons",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-properties/section_slug.submission_id.md",
+    "description": "Multiple Properties (Option 1) - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Properties",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.ProfilePage",
+    "title": "GET /:section_slug/:submission_id/ProfilePage",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/ProfilePage",
+    "file_path": "docs/web/submission-base-properties/section_slug.submission_id.ProfilePage.md",
+    "description": "Multiple Properties (Option 2) - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Properties",
+    "headings": [
+      "GET /:section_slug/:submission_id/ProfilePage",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-files/section_slug.submission_id.md",
+    "description": "Files list (Option 1) - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Files",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.DownloadPage",
+    "title": "GET /:section_slug/:submission_id/DownloadPage",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/DownloadPage",
+    "file_path": "docs/web/submission-base-files/section_slug.submission_id.DownloadPage.md",
+    "description": "Files list (Option 2) - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Files",
+    "headings": [
+      "GET /:section_slug/:submission_id/DownloadPage",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "File.file_id",
+    "title": "GET /File/:file_id",
+    "url": "https://gamebanana.com/apiv11/File/:file_id",
+    "file_path": "docs/web/submission-base-files/File.file_id.md",
+    "description": "File contents - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Files",
+    "headings": [
+      "GET /File/:file_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Collections",
+    "title": "GET /:section_slug/:submission_id/Collections",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Collections",
+    "file_path": "docs/web/submission-base-collections/section_slug.submission_id.Collections.md",
+    "description": "Collections added to - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Collections",
+    "headings": [
+      "GET /:section_slug/:submission_id/Collections",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.AccessorCollections",
+    "title": "GET /:section_slug/:submission_id/AccessorCollections",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/AccessorCollections",
+    "file_path": "docs/web/submission-base-collections/section_slug.submission_id.AccessorCollections.md",
+    "description": "Accessor collections - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Collections",
+    "headings": [
+      "GET /:section_slug/:submission_id/AccessorCollections",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Collection.Add",
+    "title": "POST /Collection/Add",
+    "url": "https://gamebanana.com/apiv11/Collection/Add",
+    "file_path": "docs/web/submission-base-collections/Collection.Add.md",
+    "description": "[Auth] Create a Collection - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Collections",
+    "headings": [
+      "POST /Collection/Add",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.AddToCollection",
+    "title": "POST /:section_slug/:submission_id/AddToCollection",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/AddToCollection",
+    "file_path": "docs/web/submission-base-collections/section_slug.submission_id.AddToCollection.md",
+    "description": "[Auth] Add to Collection - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Collections",
+    "headings": [
+      "POST /:section_slug/:submission_id/AddToCollection",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.RemoveFromCollection",
+    "title": "DELETE /:section_slug/:submission_id/RemoveFromCollection",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/RemoveFromCollection",
+    "file_path": "docs/web/submission-base-collections/section_slug.submission_id.RemoveFromCollection.md",
+    "description": "[Auth] Remove from Collection - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Collections",
+    "headings": [
+      "DELETE /:section_slug/:submission_id/RemoveFromCollection",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.EmbeddablesPage",
+    "title": "GET /:section_slug/:submission_id/EmbeddablesPage",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/EmbeddablesPage",
+    "file_path": "docs/web/submission-base-embeds/section_slug.submission_id.EmbeddablesPage.md",
+    "description": "Embeds list - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Embeds",
+    "headings": [
+      "GET /:section_slug/:submission_id/EmbeddablesPage",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Issues",
+    "title": "GET /:section_slug/:submission_id/Issues",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Issues",
+    "file_path": "docs/web/submission-base-issues/section_slug.submission_id.Issues.md",
+    "description": "Issues list - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Issues",
+    "headings": [
+      "GET /:section_slug/:submission_id/Issues",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Issue.Add",
+    "title": "POST /:section_slug/:submission_id/Issue/Add",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Issue/Add",
+    "file_path": "docs/web/submission-base-issues/section_slug.submission_id.Issue.Add.md",
+    "description": "[Auth] Add an Issue - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Issues",
+    "headings": [
+      "POST /:section_slug/:submission_id/Issue/Add",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Issue.issue_id",
+    "title": "PATCH /Issue/:issue_id",
+    "url": "https://gamebanana.com/apiv11/Issue/:issue_id",
+    "file_path": "docs/web/submission-base-issues/Issue.issue_id.md",
+    "description": "[Auth] Edit an Issue - ",
+    "method": "PATCH",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Issues",
+    "headings": [
+      "PATCH /Issue/:issue_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Issue.issue_id",
+    "title": "DELETE /Issue/:issue_id",
+    "url": "https://gamebanana.com/apiv11/Issue/:issue_id",
+    "file_path": "docs/web/submission-base-issues/Issue.issue_id.md",
+    "description": "[Auth] Trash an Issue - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Issues",
+    "headings": [
+      "DELETE /Issue/:issue_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-likes/section_slug.submission_id.md",
+    "description": "Like count - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Likes",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Likes",
+    "title": "GET /:section_slug/:submission_id/Likes",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Likes",
+    "file_path": "docs/web/submission-base-likes/section_slug.submission_id.Likes.md",
+    "description": "Users who liked - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Likes",
+    "headings": [
+      "GET /:section_slug/:submission_id/Likes",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Like",
+    "title": "POST /:section_slug/:submission_id/Like",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Like",
+    "file_path": "docs/web/submission-base-likes/section_slug.submission_id.Like.md",
+    "description": "[Auth] Like - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Likes",
+    "headings": [
+      "POST /:section_slug/:submission_id/Like",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Like",
+    "title": "DELETE /:section_slug/:submission_id/Like",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Like",
+    "file_path": "docs/web/submission-base-likes/section_slug.submission_id.Like.md",
+    "description": "[Auth] Unlike - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Likes",
+    "headings": [
+      "DELETE /:section_slug/:submission_id/Like",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Post.post_id.ProfilePage",
+    "title": "GET /Post/:post_id/ProfilePage",
+    "url": "https://gamebanana.com/apiv11/Post/:post_id/ProfilePage",
+    "file_path": "docs/web/submission-base-posts---replies/Post.post_id.ProfilePage.md",
+    "description": "Post / Reply properties - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "GET /Post/:post_id/ProfilePage",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-posts---replies/section_slug.submission_id.md",
+    "description": "Posts count - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Posts",
+    "title": "GET /:section_slug/:submission_id/Posts",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Posts",
+    "file_path": "docs/web/submission-base-posts---replies/section_slug.submission_id.Posts.md",
+    "description": "Posts feed - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "GET /:section_slug/:submission_id/Posts",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Post.Add",
+    "title": "POST /:section_slug/:submission_id/Post/Add",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Post/Add",
+    "file_path": "docs/web/submission-base-posts---replies/section_slug.submission_id.Post.Add.md",
+    "description": "[Auth] Add a Post - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "POST /:section_slug/:submission_id/Post/Add",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Post.post_id",
+    "title": "POST /Post/:post_id",
+    "url": "https://gamebanana.com/apiv11/Post/:post_id",
+    "file_path": "docs/web/submission-base-posts---replies/Post.post_id.md",
+    "description": "[Auth] Add a Reply - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "POST /Post/:post_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Post.post_id",
+    "title": "DELETE /Post/:post_id",
+    "url": "https://gamebanana.com/apiv11/Post/:post_id",
+    "file_path": "docs/web/submission-base-posts---replies/Post.post_id.md",
+    "description": "[Auth] Trash a Post / Reply - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "DELETE /Post/:post_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Post.post_id.Untrash",
+    "title": "PATCH /Post/:post_id/Untrash",
+    "url": "https://gamebanana.com/apiv11/Post/:post_id/Untrash",
+    "file_path": "docs/web/submission-base-posts---replies/Post.post_id.Untrash.md",
+    "description": "[Auth] Untrash a Post / Reply - ",
+    "method": "PATCH",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Posts / Replies",
+    "headings": [
+      "PATCH /Post/:post_id/Untrash",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-subscription/section_slug.submission_id.md",
+    "description": "Subscribers count - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Subscription",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Subscribers",
+    "title": "GET /:section_slug/:submission_id/Subscribers",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Subscribers",
+    "file_path": "docs/web/submission-base-subscription/section_slug.submission_id.Subscribers.md",
+    "description": "Users who subscribed - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Subscription",
+    "headings": [
+      "GET /:section_slug/:submission_id/Subscribers",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Subscription.Add",
+    "title": "POST /:section_slug/:submission_id/Subscription/Add",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Subscription/Add",
+    "file_path": "docs/web/submission-base-subscription/section_slug.submission_id.Subscription.Add.md",
+    "description": "[Auth] Subscribe - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Subscription",
+    "headings": [
+      "POST /:section_slug/:submission_id/Subscription/Add",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Subscription.subscription_id",
+    "title": "DELETE /Subscription/:subscription_id",
+    "url": "https://gamebanana.com/apiv11/Subscription/:subscription_id",
+    "file_path": "docs/web/submission-base-subscription/Subscription.subscription_id.md",
+    "description": "[Auth] Unsubscribe - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Subscription",
+    "headings": [
+      "DELETE /Subscription/:subscription_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-thanks/section_slug.submission_id.md",
+    "description": "Thanks count - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Thanks",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Thanks",
+    "title": "GET /:section_slug/:submission_id/Thanks",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Thanks",
+    "file_path": "docs/web/submission-base-thanks/section_slug.submission_id.Thanks.md",
+    "description": "Users who thanked - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Thanks",
+    "headings": [
+      "GET /:section_slug/:submission_id/Thanks",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Thank.Add",
+    "title": "POST /:section_slug/:submission_id/Thank/Add",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Thank/Add",
+    "file_path": "docs/web/submission-base-thanks/section_slug.submission_id.Thank.Add.md",
+    "description": "[Auth] Thank - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Thanks",
+    "headings": [
+      "POST /:section_slug/:submission_id/Thank/Add",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Todos",
+    "title": "GET /:section_slug/:submission_id/Todos",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Todos",
+    "file_path": "docs/web/submission-base-todos/section_slug.submission_id.Todos.md",
+    "description": "Todos list - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Todos",
+    "headings": [
+      "GET /:section_slug/:submission_id/Todos",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Todo.Add",
+    "title": "POST /:section_slug/:submission_id/Todo/Add",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Todo/Add",
+    "file_path": "docs/web/submission-base-todos/section_slug.submission_id.Todo.Add.md",
+    "description": "[Auth] Add a Todo - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Todos",
+    "headings": [
+      "POST /:section_slug/:submission_id/Todo/Add",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Todo.todo_id",
+    "title": "PATCH /Todo/:todo_id",
+    "url": "https://gamebanana.com/apiv11/Todo/:todo_id",
+    "file_path": "docs/web/submission-base-todos/Todo.todo_id.md",
+    "description": "[Auth] Edit a Todo - ",
+    "method": "PATCH",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Todos",
+    "headings": [
+      "PATCH /Todo/:todo_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Todo.todo_id.Toggle",
+    "title": "PATCH /Todo/:todo_id/Toggle",
+    "url": "https://gamebanana.com/apiv11/Todo/:todo_id/Toggle",
+    "file_path": "docs/web/submission-base-todos/Todo.todo_id.Toggle.md",
+    "description": "[Auth] Toggle state - ",
+    "method": "PATCH",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Todos",
+    "headings": [
+      "PATCH /Todo/:todo_id/Toggle",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Todo.todo_id",
+    "title": "DELETE /Todo/:todo_id",
+    "url": "https://gamebanana.com/apiv11/Todo/:todo_id",
+    "file_path": "docs/web/submission-base-todos/Todo.todo_id.md",
+    "description": "[Auth] Trash a Todo - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Todos",
+    "headings": [
+      "DELETE /Todo/:todo_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id",
+    "title": "GET /:section_slug/:submission_id",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id",
+    "file_path": "docs/web/submission-base-updates/section_slug.submission_id.md",
+    "description": "Updates count - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "GET /:section_slug/:submission_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Updates",
+    "title": "GET /:section_slug/:submission_id/Updates",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Updates",
+    "file_path": "docs/web/submission-base-updates/section_slug.submission_id.Updates.md",
+    "description": "Updates list - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "GET /:section_slug/:submission_id/Updates",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Files",
+    "title": "GET /:section_slug/:submission_id/Files",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Files",
+    "file_path": "docs/web/submission-base-updates/section_slug.submission_id.Files.md",
+    "description": "Files - ",
+    "method": "GET",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "GET /:section_slug/:submission_id/Files",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "section_slug.submission_id.Update",
+    "title": "POST /:section_slug/:submission_id/Update",
+    "url": "https://gamebanana.com/apiv11/:section_slug/:submission_id/Update",
+    "file_path": "docs/web/submission-base-updates/section_slug.submission_id.Update.md",
+    "description": "[Auth] Add an Update - ",
+    "method": "POST",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "POST /:section_slug/:submission_id/Update",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Update.update_id",
+    "title": "PATCH /Update/:update_id",
+    "url": "https://gamebanana.com/apiv11/Update/:update_id",
+    "file_path": "docs/web/submission-base-updates/Update.update_id.md",
+    "description": "[Auth] Edit an Update - ",
+    "method": "PATCH",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "PATCH /Update/:update_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Update.update_id",
+    "title": "DELETE /Update/:update_id",
+    "url": "https://gamebanana.com/apiv11/Update/:update_id",
+    "file_path": "docs/web/submission-base-updates/Update.update_id.md",
+    "description": "[Auth] Trash an Update - ",
+    "method": "DELETE",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "DELETE /Update/:update_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Update.update_id.Untrash",
+    "title": "PATCH /Update/:update_id/Untrash",
+    "url": "https://gamebanana.com/apiv11/Update/:update_id/Untrash",
+    "file_path": "docs/web/submission-base-updates/Update.update_id.Untrash.md",
+    "description": "[Auth] Untrash an Update - ",
+    "method": "PATCH",
+    "category": "Submission - Base",
+    "folder": "/Submission/BASE/Updates",
+    "headings": [
+      "PATCH /Update/:update_id/Untrash",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "App.submission_id.Users",
+    "title": "GET /App/:submission_id/Users",
+    "url": "https://gamebanana.com/apiv11/App/:submission_id/Users",
+    "file_path": "docs/web/submission-app/App.submission_id.Users.md",
+    "description": "Users - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/App",
+    "headings": [
+      "GET /App/:submission_id/Users",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "App.submission_id.CustomConfig.app_config_id",
+    "title": "GET /App/:submission_id/CustomConfig/:app_config_id",
+    "url": "https://gamebanana.com/apiv11/App/:submission_id/CustomConfig/:app_config_id",
+    "file_path": "docs/web/submission-app/App.submission_id.CustomConfig.app_config_id.md",
+    "description": "Custom config - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/App",
+    "headings": [
+      "GET /App/:submission_id/CustomConfig/:app_config_id",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Contest.submission_id.Winners",
+    "title": "GET /Contest/:submission_id/Winners",
+    "url": "https://gamebanana.com/apiv11/Contest/:submission_id/Winners",
+    "file_path": "docs/web/submission-contest/Contest.submission_id.Winners.md",
+    "description": "Winners - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Contest",
+    "headings": [
+      "GET /Contest/:submission_id/Winners",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Collection.submission_id.Items",
+    "title": "GET /Collection/:submission_id/Items",
+    "url": "https://gamebanana.com/apiv11/Collection/:submission_id/Items",
+    "file_path": "docs/web/submission-collection/Collection.submission_id.Items.md",
+    "description": "Items - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Collection",
+    "headings": [
+      "GET /Collection/:submission_id/Items",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Idea.submission_id.Ratings",
+    "title": "GET /Idea/:submission_id/Ratings",
+    "url": "https://gamebanana.com/apiv11/Idea/:submission_id/Ratings",
+    "file_path": "docs/web/submission-idea/Idea.submission_id.Ratings.md",
+    "description": "Ratings list - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Idea",
+    "headings": [
+      "GET /Idea/:submission_id/Ratings",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Jam.submission_id.Bounty.Contributors",
+    "title": "GET /Jam/:submission_id/Bounty/Contributors",
+    "url": "https://gamebanana.com/apiv11/Jam/:submission_id/Bounty/Contributors",
+    "file_path": "docs/web/submission-jam/Jam.submission_id.Bounty.Contributors.md",
+    "description": "Bounty contributors - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Jam",
+    "headings": [
+      "GET /Jam/:submission_id/Bounty/Contributors",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Jam.submission_id.Bounty.Recipients",
+    "title": "GET /Jam/:submission_id/Bounty/Recipients",
+    "url": "https://gamebanana.com/apiv11/Jam/:submission_id/Bounty/Recipients",
+    "file_path": "docs/web/submission-jam/Jam.submission_id.Bounty.Recipients.md",
+    "description": "Bounty recipients - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Jam",
+    "headings": [
+      "GET /Jam/:submission_id/Bounty/Recipients",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Jam.submission_id.Entries",
+    "title": "GET /Jam/:submission_id/Entries",
+    "url": "https://gamebanana.com/apiv11/Jam/:submission_id/Entries",
+    "file_path": "docs/web/submission-jam/Jam.submission_id.Entries.md",
+    "description": "Entries list - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Jam",
+    "headings": [
+      "GET /Jam/:submission_id/Entries",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Poll.submission_id.Votes",
+    "title": "GET /Poll/:submission_id/Votes",
+    "url": "https://gamebanana.com/apiv11/Poll/:submission_id/Votes",
+    "file_path": "docs/web/submission-poll/Poll.submission_id.Votes.md",
+    "description": "Votes - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Poll",
+    "headings": [
+      "GET /Poll/:submission_id/Votes",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Project.submission_id.FinishedWorks",
+    "title": "GET /Project/:submission_id/FinishedWorks",
+    "url": "https://gamebanana.com/apiv11/Project/:submission_id/FinishedWorks",
+    "file_path": "docs/web/submission-project/Project.submission_id.FinishedWorks.md",
+    "description": "Finished works list - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Project",
+    "headings": [
+      "GET /Project/:submission_id/FinishedWorks",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Project.submission_id.Wips",
+    "title": "GET /Project/:submission_id/Wips",
+    "url": "https://gamebanana.com/apiv11/Project/:submission_id/Wips",
+    "file_path": "docs/web/submission-project/Project.submission_id.Wips.md",
+    "description": "Wips list - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Project",
+    "headings": [
+      "GET /Project/:submission_id/Wips",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Request.submission_id.BountyRecipients",
+    "title": "GET /Request/:submission_id/BountyRecipients",
+    "url": "https://gamebanana.com/apiv11/Request/:submission_id/BountyRecipients",
+    "file_path": "docs/web/submission-request/Request.submission_id.BountyRecipients.md",
+    "description": "Bounty recipients - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Request",
+    "headings": [
+      "GET /Request/:submission_id/BountyRecipients",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Request.submission_id.Bounty.Contributors",
+    "title": "GET /Request/:submission_id/Bounty/Contributors",
+    "url": "https://gamebanana.com/apiv11/Request/:submission_id/Bounty/Contributors",
+    "file_path": "docs/web/submission-request/Request.submission_id.Bounty.Contributors.md",
+    "description": "Bounty contributors - ",
+    "method": "GET",
+    "category": "Submission - Specific Types",
+    "folder": "/Submission/Request",
+    "headings": [
+      "GET /Request/:submission_id/Bounty/Contributors",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Ripe.Info",
+    "title": "GET /Ripe/Info",
+    "url": "https://gamebanana.com/apiv11/Ripe/Info",
+    "file_path": "docs/web/ripe/Ripe.Info.md",
+    "description": "Info - This endpoints returns Ripe info.",
+    "method": "GET",
+    "category": "Ripe",
+    "folder": "/Ripe",
+    "headings": [
+      "GET /Ripe/Info",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  },
+  {
+    "slug": "Ripe.Purchasers",
+    "title": "GET /Ripe/Purchasers",
+    "url": "https://gamebanana.com/apiv11/Ripe/Purchasers",
+    "file_path": "docs/web/ripe/Ripe.Purchasers.md",
+    "description": "Latest purchasers - ",
+    "method": "GET",
+    "category": "Ripe",
+    "folder": "/Ripe",
+    "headings": [
+      "GET /Ripe/Purchasers",
+      "Path Variables",
+      "Query Parameters",
+      "Example Response"
+    ],
+    "outgoing_links": []
+  }
+]

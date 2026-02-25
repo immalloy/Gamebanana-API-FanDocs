@@ -1,0 +1,6 @@
+# POST /Member/Authenticate
+
+**Authenticate**
+
+
+
