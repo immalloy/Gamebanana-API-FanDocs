@@ -1958,5 +1958,45 @@
       "Example Response"
     ],
     "outgoing_links": []
+  },
+  {
+    "slug": "quick-start",
+    "title": "Quick Start Guide",
+    "url": "docs/Quick.Start.md",
+    "file_path": "docs/Quick.Start.md",
+    "description": "Get started in 5 minutes",
+    "category": "Guides"
+  },
+  {
+    "slug": "use-cases",
+    "title": "Use Cases & Tutorials",
+    "url": "docs/Use.Cases.md",
+    "file_path": "docs/Use.Cases.md",
+    "description": "Practical examples for common tasks",
+    "category": "Guides"
+  },
+  {
+    "slug": "field-reference",
+    "title": "Response Field Reference",
+    "url": "docs/Field.Reference.md",
+    "file_path": "docs/Field.Reference.md",
+    "description": "Complete reference for all response fields",
+    "category": "Reference"
+  },
+  {
+    "slug": "error-codes",
+    "title": "Error Codes Reference",
+    "url": "docs/Error.Codes.md",
+    "file_path": "docs/Error.Codes.md",
+    "description": "Complete list of error codes",
+    "category": "Reference"
+  },
+  {
+    "slug": "best-practices",
+    "title": "Best Practices",
+    "url": "docs/Best.Practices.md",
+    "file_path": "docs/Best.Practices.md",
+    "description": "Rate limiting, caching, error handling",
+    "category": "Guides"
   }
 ]

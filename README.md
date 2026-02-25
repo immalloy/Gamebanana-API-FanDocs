@@ -33,8 +33,13 @@ Gamebanana API/
 │   │   ├── submission-base-*/      # Base submission endpoints
 │   │   └── ...
 │   ├── Complete.API.Documentation.md
-│   └── WebAPI.Complete.md         # All-in-one reference
-├── docs.json                      # Full index (128 entries)
+│   │   └── WebAPI.Complete.md         # All-in-one reference
+│   ├── Quick.Start.md                 # Get started
+│   ├── Use.Cases.md                  # Tutorials
+│   ├── Field.Reference.md            # Response fields
+│   ├── Error.Codes.md                # Error codes
+│   └── Best.Practices.md              # Best practices
+├── docs.json                      # Full index (133 entries)
 ├── SUMMARY.md                     # Organized index
 └── README.md
 ```
