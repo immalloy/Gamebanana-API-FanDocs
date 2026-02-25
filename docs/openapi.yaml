@@ -1,0 +1,355 @@
+openapi: 3.0.3
+info:
+  title: GameBanana API v11 (Web API)
+  description: |
+    GameBanana Web API documentation.
+    
+    **Base URL**: `https://gamebanana.com/apiv11`
+    
+    ## Response Format
+    All responses follow this structure:
+    ```json
+    {
+      "_aMetadata": {
+        "_nRecordCount": 100,
+        "_bIsComplete": false
+      },
+      "_aRecords": [...]
+    }
+    ```
+    
+    ## Field Prefixes
+    - `_a` = Array
+    - `_b` = Boolean  
+    - `_n` = Number
+    - `_s` = String
+    - `_ts` = Timestamp
+    - `_idRow` = Database ID
+  version: '11'
+  contact:
+    name: GameBanana
+    url: https://gamebanana.com
+
+servers:
+  - url: https://gamebanana.com/apiv11
+    description: Web API (recommended)
+  - url: https://api.gamebanana.com
+    description: Official API
+
+paths:
+  /Util/Search/Results:
+    get:
+      summary: Search submissions
+      description: Search for mods, games, tools, and other content
+      parameters:
+        - name: _sSearchString
+          in: query
+          required: true
+          schema:
+            type: string
+          description: Search query (min 2 characters)
+        - name: _sModelName
+          in: query
+          schema:
+            type: string
+            enum: [Mod, Tool, Game, Map, Texture, Sound, Script, Model, Skin, Concept, Wip, Tutorial, Article, Blog, News, Member, Studio]
+          description: Filter by section type
+        - name: _nPage
+          in: query
+          schema:
+            type: integer
+            default: 1
+        - name: _nPerpage
+          in: query
+          schema:
+            type: integer
+            default: 20
+            maximum: 50
+        - name: _sOrder
+          in: query
+          schema:
+            type: string
+            enum: [best_match, popularity, date, udate]
+            default: best_match
+        - name: _idGameRow
+          in: query
+          schema:
+            type: integer
+          description: Filter by game ID
+      responses:
+        '200':
+          description: Search results
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  _aMetadata:
+                    type: object
+                    properties:
+                      _nRecordCount:
+                        type: integer
+                      _bIsComplete:
+                        type: boolean
+                  _aRecords:
+                    type: array
+                    items:
+                      type: object
+
+  /Game/{id}/ProfilePage:
+    get:
+      summary: Get game details with categories
+      description: Returns full game information including ALL category IDs
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: Game ID
+      responses:
+        '200':
+          description: Game details
+          content:
+            application/json:
+              example:
+                _sName: "Counter-Strike 1.6"
+                _sDescription: "..."
+                _aModRootCategories:
+                  - _idRow: 1
+                    _sName: "Maps"
+                  - _idRow: 2
+                    _sName: "Scripts"
+
+  /Game/{id}/Subfeed:
+    get:
+      summary: Get game submissions
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: _nPage
+          in: query
+          schema:
+            type: integer
+            default: 1
+        - name: _sSort
+          in: query
+          schema:
+            type: string
+            enum: [default, new, updated]
+            default: default
+      responses:
+        '200':
+          description: Submissions list
+
+  /Mod/{id}/ProfilePage:
+    get:
+      summary: Get mod details
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Mod details
+
+  /Mod/{id}/DownloadPage:
+    get:
+      summary: Get mod files
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Download info with files
+
+  /File/{id}:
+    get:
+      summary: Get file contents (including ZIP tree!)
+      description: Returns archive file tree for ZIP files
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: File ID from DownloadPage
+      responses:
+        '200':
+          description: File data including _aArchiveFileTree
+
+  /Util/Game/NameMatch:
+    get:
+      summary: Search games by name
+      parameters:
+        - name: _sName
+          in: query
+          required: true
+          schema:
+            type: string
+          description: Game name (min 3 characters)
+        - name: _nPage
+          in: query
+          schema:
+            type: integer
+            default: 1
+        - name: _nPerpage
+          in: query
+          schema:
+            type: integer
+            default: 10
+      responses:
+        '200':
+          description: Games list
+
+  /Util/Generic/Tags:
+    get:
+      summary: Search tags
+      parameters:
+        - name: _sTag
+          in: query
+          required: true
+          schema:
+            type: string
+          description: Tag search (min 2 characters)
+        - name: _idGameRow
+          in: query
+          schema:
+            type: integer
+          description: Filter by game
+      responses:
+        '200':
+          description: Tags list
+
+  /Member/{id}/ProfilePage:
+    get:
+      summary: Get member profile
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+          description: Member ID
+      responses:
+        '200':
+          description: Member profile
+
+  /Member/Authenticate:
+    post:
+      summary: Authenticate with username
+      requestBody:
+        required: true
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              required:
+                - _sName
+                - _sPassword
+              properties:
+                _sName:
+                  type: string
+                _sPassword:
+                  type: string
+      responses:
+        '200':
+          description: Authentication successful
+
+  /Util/List/Featured:
+    get:
+      summary: Get featured submissions
+      parameters:
+        - name: _sModelName
+          in: query
+          schema:
+            type: string
+        - name: _idGameRow
+          in: query
+          schema:
+            type: integer
+        - name: _nPage
+          in: query
+          schema:
+            type: integer
+        - name: _nPerpage
+          in: query
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Featured submissions
+
+  /{model}/Index:
+    get:
+      summary: List latest in section
+      parameters:
+        - name: model
+          in: path
+          required: true
+          schema:
+            type: string
+            enum: [Mod, Tool, Game, Map, Texture, Sound, Script, Model, Skin, Concept, Wip, Tutorial, Article, Blog, News]
+        - name: _nPage
+          in: query
+          schema:
+            type: integer
+            default: 1
+        - name: _nPerpage
+          in: query
+          schema:
+            type: integer
+            default: 20
+        - name: _sSort
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Section listings
+
+components:
+  schemas:
+    Metadata:
+      type: object
+      properties:
+        _nRecordCount:
+          type: integer
+        _nPerpage:
+          type: integer
+        _bIsComplete:
+          type: boolean
+
+    Record:
+      type: object
+      properties:
+        _idRow:
+          type: integer
+        _sModelName:
+          type: string
+        _sName:
+          type: string
+        _sProfileUrl:
+          type: string
+        _nViewCount:
+          type: integer
+        _nDownloadCount:
+          type: integer
+        _nLikeCount:
+          type: integer
+
+    Error:
+      type: object
+      properties:
+        _sErrorCode:
+          type: string
+        _sErrorMessage:
+          type: string

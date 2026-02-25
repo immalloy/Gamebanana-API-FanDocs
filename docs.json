@@ -1998,5 +1998,45 @@
     "file_path": "docs/Best.Practices.md",
     "description": "Rate limiting, caching, error handling",
     "category": "Guides"
+  },
+  {
+    "slug": "index",
+    "title": "Complete Endpoint Index",
+    "url": "docs/INDEX.md",
+    "file_path": "docs/INDEX.md",
+    "description": "Quick reference for all 126 endpoints",
+    "category": "Guides"
+  },
+  {
+    "slug": "python-quickstart",
+    "title": "Python Quick Reference",
+    "url": "docs/Python.Quickstart.md",
+    "file_path": "docs/Python.Quickstart.md",
+    "description": "Copy-paste Python code snippets",
+    "category": "Code Examples"
+  },
+  {
+    "slug": "javascript-quickstart",
+    "title": "JavaScript Quick Reference",
+    "url": "docs/JavaScript.Quickstart.md",
+    "file_path": "docs/JavaScript.Quickstart.md",
+    "description": "Copy-paste JS/TS code snippets",
+    "category": "Code Examples"
+  },
+  {
+    "slug": "troubleshooting",
+    "title": "Troubleshooting Guide",
+    "url": "docs/Troubleshooting.md",
+    "file_path": "docs/Troubleshooting.md",
+    "description": "Common problems and solutions",
+    "category": "Guides"
+  },
+  {
+    "slug": "openapi-spec",
+    "title": "OpenAPI Specification",
+    "url": "docs/openapi.yaml",
+    "file_path": "docs/openapi.yaml",
+    "description": "Machine-readable API spec",
+    "category": "Reference"
   }
 ]

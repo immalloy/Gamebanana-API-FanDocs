@@ -34,12 +34,17 @@ Gamebanana API/
 │   │   └── ...
 │   ├── Complete.API.Documentation.md
 │   │   └── WebAPI.Complete.md         # All-in-one reference
-│   ├── Quick.Start.md                 # Get started
-│   ├── Use.Cases.md                  # Tutorials
+│   ├── INDEX.md                       # All 126 endpoints
+│   ├── Quick.Start.md                 # Get started (5 min)
+│   ├── Use.Cases.md                  # 11 practical tutorials
 │   ├── Field.Reference.md            # Response fields
 │   ├── Error.Codes.md                # Error codes
-│   └── Best.Practices.md              # Best practices
-├── docs.json                      # Full index (133 entries)
+│   ├── Best.Practices.md              # Rate limiting, caching
+│   ├── Troubleshooting.md             # Common problems
+│   ├── Python.Quickstart.md          # Python code snippets
+│   ├── JavaScript.Quickstart.md      # JS/TS code snippets
+│   └── openapi.yaml                  # OpenAPI spec
+├── docs.json                      # Full index (138 entries)
 ├── SUMMARY.md                     # Organized index
 └── README.md
 ```

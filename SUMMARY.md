@@ -36,6 +36,7 @@
 | [Quick Start Guide](./docs/Quick.Start.md) | Get started in 5 minutes |
 | [Use Cases & Tutorials](./docs/Use.Cases.md) | Practical examples for common tasks |
 | [Best Practices](./docs/Best.Practices.md) | Rate limiting, caching, error handling |
+| [Troubleshooting Guide](./docs/Troubleshooting.md) | Common problems and solutions |
 
 ---
 
@@ -43,8 +44,19 @@
 
 | Document | Description |
 |----------|-------------|
-| [Response Field Reference](./docs/Field.Reference.md) | Complete reference for all response fields |
-| [Error Codes Reference](./docs/Error.Codes.md) | Complete list of error codes |
+| [Complete Endpoint Index](./docs/INDEX.md) | All 126 endpoints quick lookup |
+| [Response Field Reference](./docs/Field.Reference.md) | All response field prefixes |
+| [Error Codes Reference](./docs/Error.Codes.md) | All error codes |
+| [OpenAPI Spec](./docs/openapi.yaml) | Machine-readable API spec |
+
+---
+
+## Code Examples
+
+| Document | Description |
+|----------|-------------|
+| [Python Quick Reference](./docs/Python.Quickstart.md) | Copy-paste Python code |
+| [JavaScript Quick Reference](./docs/JavaScript.Quickstart.md) | Copy-paste JS/TS code |
 
 ---
 
